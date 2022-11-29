@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.heading {
+  height: 400px;
+  font-size: 32px;
+  padding-top: 20px;
+  padding-left: 20px;
+  background-image:  url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom; /* 背景画像を中央に配置 */
+}
+
+main {
+  width: 840px; /* 横幅800px */
+  margin: 50px auto;
+}
+
+.blog-item1 {
+  padding-bottom: 30px;
+  margin-top: 30px;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.blog-item2 {
+  padding-bottom: 30px;
+  margin-top: 30px;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.blog-item3 {
+  padding-bottom: 30px;
+  margin-top: 30px;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.blog-item4 {
+  padding-bottom: 30px;
+  margin-top: 30px;
+  border-bottom: 1px solid #d1d1d1;
+}
